@@ -7,6 +7,9 @@
 @import "friend.css";
 @import "friends.css";
 @import "find.css";
+@import "more.css";
+@import "setting.css";
+@import "chat.css";
 
 body {
     background-color: white;
